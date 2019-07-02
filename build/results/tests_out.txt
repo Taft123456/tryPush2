@@ -1,0 +1,4 @@
+Breakpoint 1 at 0xe6: file source/main.c, line 20.
+Note: automatically using hardware breakpoints for read-only addresses.
+Undefined command: "ls".  Try "help".
+Quit
